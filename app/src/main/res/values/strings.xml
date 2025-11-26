@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Заметка</string>
+    <string name="hint_note">Введите вашу заметку здесь...</string>
+    <string name="search_hint">Поиск в заметке...</string>
+    <string name="save_success">Заметка сохранена</string>
+    <string name="clear_note">Очистить заметку</string>
+    <string name="note_content">Содержание заметки</string>
+</resources>

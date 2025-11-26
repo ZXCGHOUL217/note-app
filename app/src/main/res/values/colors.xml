@@ -1,0 +1,16 @@
+<resources>
+    <color name="primary_color">#FF6200EE</color>
+    <color name="primary_dark">#FF3700B3</color>
+    <color name="accent_color">#FF03DAC5</color>
+    <color name="background_color">#FFF5F5F5</color>
+    <color name="card_color">#FFFFFFFF</color>
+    <color name="text_primary">#FF212121</color>
+    <color name="text_secondary">#FF757575</color>
+    <color name="divider_color">#FFE0E0E0</color>
+    <color name="search_background">#FFF1F1F1</color>
+    <color name="button_primary">#FF6200EE</color>
+    <color name="button_secondary">#FF757575</color>
+    <color name="highlight_color">#FFFFEB3B</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="card_header">#FF6200EE</color>
+</resources>
