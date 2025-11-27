@@ -20,4 +20,4 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/ваш-username/notes-app.git
+git clone https://github.com/ZXCGHOUL217/notes-app.git
